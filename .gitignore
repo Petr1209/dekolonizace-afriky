@@ -1,0 +1,9 @@
+# Backups and temporary files
+*_backup.pptx
+*_original.pptx
+*...pptx
+*.tmp
+*.bak
+~$*.pptx
+.DS_Store
+Thumbs.db
